@@ -1,0 +1,18 @@
+[
+  {
+    "first_name": "Altynbek",
+    "second_name": "Zhekshenbekov",
+    "photo": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425_960_720.png",
+    "education": "bachelor",
+    "company": [
+      {
+        "name": "TEST_COMPANY",
+        "position": "HR"
+      },
+      {
+        "name": "Google",
+        "position": "developer"
+      }
+    ]
+  }
+]
